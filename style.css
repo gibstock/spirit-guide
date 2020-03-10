@@ -4,6 +4,7 @@ body{
     box-sizing: border-box;
     background: #000 url('/images/geo.png') center;
     background-size: 1em;
+    backdrop-filter: blur(1px);
     
 }
 .banner{
