@@ -6,11 +6,11 @@ body{
     
     
 }
-.container{
+/* .container{
     background: #000 url('/images/geo.png') center;
-    background-size: 1em;
-    backdrop-filter: blur(1px);
-}
+    background-size: 3em;
+    
+} */
 .banner{
     width: 100%;
     height: 50vh;
