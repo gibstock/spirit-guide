@@ -3,7 +3,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     background: #000 url('/images/geo.png') center;
-    background-size: contain;
+    background-size: 5em;
 }
 .banner{
     width: 100%;
