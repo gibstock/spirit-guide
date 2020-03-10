@@ -46,3 +46,17 @@ form{
     justify-content: center;
     color: #fff;
 }
+form button{
+    padding: 1em;
+    border-radius: 12px;
+    background-color: #000;
+    color: #fff;
+}
+form button:hover{
+    background: linear-gradient(150deg, black, white);
+    color: #000;
+}
+form button:active{
+    background: black;
+    color: #fff;
+}
